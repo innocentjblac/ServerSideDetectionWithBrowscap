@@ -1,0 +1,13 @@
+{
+    "require": {
+        "slim/slim": "2.2.*",
+        "browscap/browscap-php": "1.0.*@dev",
+        "petebrowne/slim-layout-view": "0.1.*"
+    },
+
+    "autoload": {
+        "classmap": [
+            "include/"
+        ]
+    }
+}
